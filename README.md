@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido com o objetivo de criar uma página de destino estática para uma empresa fictícia chamada Frontbox, que oferece cursos de programação.
 
-[Link do Projeto Hospedado](link aqui)
+[Link do Projeto Hospedado](https://frontbox-miguelma3.netlify.app)
 
 ## O que foi aprendido
 
